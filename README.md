@@ -1,2 +1,2 @@
 # Node-Small-Framework
-Small NodeJS framework
+Small framework built in NodeJS
