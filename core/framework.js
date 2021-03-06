@@ -1,7 +1,7 @@
 const http = require("http");
 
 function Server(port){
-    http.createServer(router).listen(port);
+    http.createServer(router).listen(port,()=>console.log("Servidor inciado"));
 
     let routes = [];
     
